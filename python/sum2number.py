@@ -1,0 +1,10 @@
+x = int(input("Enter first number :"))
+y = int(input("Enter second number:"))
+print("Sum is :",x+y)
+print("sub is :",x-y)
+print("multi is :",x*y)
+print("divi is :",x/y)
+print("expo is :",x**y)
+print("floor is :",x//y)
+print("remai is :",x%y)
+
