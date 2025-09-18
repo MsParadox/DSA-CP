@@ -1,0 +1,9 @@
+# 947: most stones removed with same row or column
+if 2 nodes share their row or column then they are in a same component
+by using edge list : (r,c)   (a,b)  compare : r==a or c==b
+ans = total nodes - no. of component
+
+# 2316: count unreachable pairs of nodes in an undirected graph
+ans = size1(remaining - size1)+size2(remaining - size2)+ -------
+
+# 1559: detect cycles in 2d grid

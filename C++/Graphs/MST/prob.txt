@@ -1,0 +1,6 @@
+#1135:connect cities with minimum cost
+ apply kruskals
+ if two or more connected compoent(disjoint nodes) then no such  connection possible
+
+#1584 : min cost to connect all points
+ first join points and calculate their weight (manhattan distance) then apply  kruskals
