@@ -302,6 +302,57 @@ Active Contributor
 </div>
 
 
+## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30" /> &nbsp;**`FROM PRACTICE TO PRODUCT — CODESYNC`**
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```
+ ╔══════════════════════════════════════════════════════════════════════════╗
+║  ⭐ CODESYNC  —  a DSA judge I turned into a real platform   ● LIVE       ║
+ ║  Real-time collab editor · 7-language sandbox · hidden-test judge        ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+The DSA/CP grind in this repo became a **production platform**. CodeSync runs a
+LeetCode-style **online judge** end-to-end — write code in **7 languages**,
+**Run** against samples or **Submit** against hidden tests, get real verdicts, and
+climb a leaderboard with daily streaks.
+
+| ⚙️ CP-grade engine | 💬 Detail |
+|:---|:---|
+| 🧪 Hidden-test judge | `AC · WA · TLE · MLE · CE · RE` — whitespace-trimmed, fail-fast |
+| ⚡ Execution sandbox | 7 languages in a hardened Docker sandbox **or** Judge0 (one env var) |
+| 🏆 Leaderboard | Difficulty-weighted scoring (Easy×1 · Medium×3 · Hard×5) + streaks |
+| 🎯 Interview mode | Problem + countdown + hidden tests, submissions reviewable |
+| 🤝 Real-time | Many people in one editor via **Yjs CRDT** (live cursors, chat) |
+
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=000000)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=000000)](https://openjdk.org/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue&labelColor=000000)](https://python.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=000000)](https://reactjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=000000)](https://nodejs.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=000000)](https://docker.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=000000)](https://mongodb.com)
+
+[![Live](https://img.shields.io/badge/◉_Live_Demo-00e5cc?style=for-the-badge&labelColor=000000)](https://code-sync-chi-lemon.vercel.app)
+[![Source](https://img.shields.io/badge/⬡_Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MsParadox/CodeSync)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="animated neon divider" />
+
+</div>
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /> &nbsp;`TRANSMISSION OPEN`
 
 <div align="center">
